@@ -1,0 +1,12 @@
+data = "java"
+flag = data.endswith("j")
+print(flag)
+print("endswith : ",data.endswith("a"))
+print("isalnum : ",data.isalnum())
+print("alpha : ",data.isalpha())
+print("numberic : ",data.isnumeric())
+print("lower",data.islower())
+print("upper : ",data.isupper())
+print("space : ",data.isspace())
+print("is title : ",data.istitle())
+print(data.isprintable())
