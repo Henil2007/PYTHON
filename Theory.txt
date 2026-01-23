@@ -78,3 +78,50 @@ for(int i=1;i<=10;i++)
 for(initi;cond;inremtn)
 
 range function for loop
+
+0 -9
+range(10)
+1 to 94
+range(1,95)
+
+10 --> 0 -->
+range(10,-1,-1)
+
+20 ->0
+20 - 18 - 16 - 14
+range(20,-1,-2)
+
+#LCM OF 2 numbers
+lowest common multipule
+# 10 15 
+#30
+-----------------------------------4
+numbers int float...
+char:
+String:str
+
+charatrstics:
+1) String is immutable: no modification can not allow eg: x = "India", x[0]="i"
+2) string stores data in index
+3) String is dynamic in size
+4) string allows duplicate chars
+5) data type of string is str
+
+ds:
+        array
+list
+tuple
+dict
+set 
+
+list:
+list is collection of elements
+list allows duplicate elements
+list is hetrogenious
+list stores data in index
+list is iterable: loop
+list is supscritable:
+list is mutable
+data type of list is list
+we can decalre list using [] braces
+list is dynamic in size
