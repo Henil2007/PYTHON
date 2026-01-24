@@ -1,7 +1,7 @@
 # name = input("Enter name : ")
 array = []
 
-while(1):
+while(True):
     name = input("Enter name : ")
     # array = name
     if(name == "exit"):
